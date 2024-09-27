@@ -1,7 +1,10 @@
 # Projeto: Cafe Expresso
 Como estou estudando HTML e CSS, fiz este projeto como uma prática de meus estudos.
 
-![Cafe-Expresso.png](https://postimg.cc/zbkqcvjm)
+
+## Imagem da Página:
+![Cafe Expresso](https://i.postimg.cc/JnfttBHh/Cafe-Expresso.png)
+
 
 ## Sobre o conteúdo do projeto
 Ele foi feito pensado para uma cafeteria que gostaria de uma espécie de cardápio. A responsividade também está inclusa no projeto.
