@@ -81,3 +81,28 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 1.25rem;
 }
+
+@media (max-width: 590px) {
+    .cabecalho {
+        padding: 5%;
+    }
+
+    .cabecalho__titulo__imagem{
+        margin: 5%;
+    }
+
+    .cafe__icone {
+        width: 75px;
+        height: auto;
+    }
+
+    .cabecalho__links {
+        padding: 5%;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .conteudo__texto {
+        text-align: justify;
+    }
+}
